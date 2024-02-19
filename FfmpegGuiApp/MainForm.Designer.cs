@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             button1 = new Button();
             button2 = new Button();
             menuStrip1 = new MenuStrip();
@@ -52,7 +53,7 @@
             // 
             button1.Location = new Point(9, 39);
             button1.Name = "button1";
-            button1.Size = new Size(189, 34);
+            button1.Size = new Size(245, 34);
             button1.TabIndex = 0;
             button1.Text = "Choose file...";
             button1.UseVisualStyleBackColor = true;
@@ -62,7 +63,7 @@
             // 
             button2.Location = new Point(9, 149);
             button2.Name = "button2";
-            button2.Size = new Size(189, 34);
+            button2.Size = new Size(245, 34);
             button2.TabIndex = 1;
             button2.Text = "Convert";
             button2.UseVisualStyleBackColor = true;
@@ -73,7 +74,7 @@
             menuStrip1.Items.AddRange(new ToolStripItem[] { fileToolStripMenuItem2, editToolStripMenuItem, fileToolStripMenuItem, fileToolStripMenuItem1, toolStripMenuItem1 });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
-            menuStrip1.Size = new Size(206, 24);
+            menuStrip1.Size = new Size(266, 24);
             menuStrip1.TabIndex = 2;
             menuStrip1.Text = "menuStrip1";
             // 
@@ -87,14 +88,14 @@
             // openToolStripMenuItem1
             // 
             openToolStripMenuItem1.Name = "openToolStripMenuItem1";
-            openToolStripMenuItem1.Size = new Size(180, 22);
+            openToolStripMenuItem1.Size = new Size(103, 22);
             openToolStripMenuItem1.Text = "Open";
             openToolStripMenuItem1.Click += openToolStripMenuItem1_Click;
             // 
             // exitToolStripMenuItem
             // 
             exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            exitToolStripMenuItem.Size = new Size(180, 22);
+            exitToolStripMenuItem.Size = new Size(103, 22);
             exitToolStripMenuItem.Text = "Exit";
             exitToolStripMenuItem.Click += exitToolStripMenuItem_Click;
             // 
@@ -179,16 +180,19 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(206, 193);
+            ClientSize = new Size(266, 193);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(comboBox1);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(menuStrip1);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MainMenuStrip = menuStrip1;
             Name = "MainForm";
-            Text = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "FFMPEG Video Converter";
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             ResumeLayout(false);
