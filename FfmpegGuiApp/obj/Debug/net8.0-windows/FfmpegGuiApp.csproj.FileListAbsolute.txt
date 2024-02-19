@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\bin\Debug\net8.0-windows\FfmpegGuiApp.exe
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\bin\Debug\net8.0-windows\FfmpegGuiApp.deps.json
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\bin\Debug\net8.0-windows\FfmpegGuiApp.runtimeconfig.json
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\bin\Debug\net8.0-windows\FfmpegGuiApp.dll
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\bin\Debug\net8.0-windows\FfmpegGuiApp.pdb
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\obj\Debug\net8.0-windows\FfmpegGuiApp.MainForm.resources
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\obj\Debug\net8.0-windows\FfmpegGuiApp.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\obj\Debug\net8.0-windows\FfmpegGuiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\obj\Debug\net8.0-windows\FfmpegGuiApp.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\obj\Debug\net8.0-windows\FfmpegGuiApp.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\obj\Debug\net8.0-windows\FfmpegGuiApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\obj\Debug\net8.0-windows\FfmpegGuiApp.dll
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\obj\Debug\net8.0-windows\refint\FfmpegGuiApp.dll
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\obj\Debug\net8.0-windows\FfmpegGuiApp.pdb
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\obj\Debug\net8.0-windows\FfmpegGuiApp.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\obj\Debug\net8.0-windows\ref\FfmpegGuiApp.dll
+C:\Users\Administrator\source\repos\FfmpegGuiApp\FfmpegGuiApp\bin\Debug\net8.0-windows\FfmpegGuiApp.dll.config
